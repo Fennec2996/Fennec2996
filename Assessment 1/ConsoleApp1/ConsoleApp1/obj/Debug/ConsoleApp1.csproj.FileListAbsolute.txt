@@ -1,0 +1,7 @@
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

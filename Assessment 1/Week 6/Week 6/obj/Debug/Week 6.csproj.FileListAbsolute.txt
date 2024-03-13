@@ -1,0 +1,7 @@
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\obj\Debug\Week 6.csproj.AssemblyReference.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\obj\Debug\Week 6.csproj.CoreCompileInputs.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\bin\Debug\Week 6.exe.config
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\bin\Debug\Week 6.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\bin\Debug\Week 6.pdb
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\obj\Debug\Week 6.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\Week 6\Week 6\obj\Debug\Week 6.pdb

@@ -1,0 +1,7 @@
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.AssemblyReference.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Assessment 1\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
