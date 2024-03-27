@@ -1,0 +1,7 @@
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.pdb
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.pdb

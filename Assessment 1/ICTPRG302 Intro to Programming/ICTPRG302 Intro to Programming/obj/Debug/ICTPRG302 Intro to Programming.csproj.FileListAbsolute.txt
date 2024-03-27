@@ -1,0 +1,7 @@
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.exe.config
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.pdb
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.csproj.AssemblyReference.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.csproj.CoreCompileInputs.cache
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.exe
+C:\Users\s240321\OneDrive - The Academy of Interactive Entertainment Ltd\Fennec2996\Assessment 1\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.pdb
